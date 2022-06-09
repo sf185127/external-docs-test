@@ -1,0 +1,22 @@
+{
+  "docs": {
+    "type": "leaf",
+    "routes": {
+      "*": "*.mdx"
+    },
+    "navigation": [
+      "/root",
+      {
+        "path": "/docs/project"
+      },
+      {
+        "title": "Components",
+        "children": [
+          {
+            "path": "/src/components/Example/collocated"
+          }
+        ]
+      }
+    ]
+  }
+}
